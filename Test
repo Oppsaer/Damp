@@ -8,5 +8,5 @@ using namespace cv;
 int var = 0;
 
 void main() {
-
+cout << Hello Oppsaer! << endl;
 }
